@@ -1,2 +1,2 @@
 # My-codes-in-CS-learning-journey
-#### This is my codes in Computer Science learning journey following the OSSU curriculum, I dunno but maybe can help.
+#### Hello, I'm Willian and this is my Computer Science learning journey following the OSSU curriculum. I  will try to post all codes that I working on in this path to learning code.
